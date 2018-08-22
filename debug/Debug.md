@@ -22,14 +22,3 @@ public class testprog {
 }
 ```
 For more details. [see here][DEBUGSTEP].
-
-
-
-
-
-
-
-
-
-
-[DEBUGSTEP]: https://stackoverflow.com/a/3580851/8331040
