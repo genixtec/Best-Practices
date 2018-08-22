@@ -1,6 +1,6 @@
 # Debug practices
 
-Debug steps diffrences
+* Debug steps diffrences
 
 How debug step into, step over and step out works?
 
